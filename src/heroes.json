@@ -1,0 +1,1307 @@
+[
+    {
+        "id": 1, 
+        "name": "Ana", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Ana.png", 
+        "background": "/src/assets/videos/Ana.mp4",
+        "abilities": [
+            {
+                "name": "Biotic Rifle",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "icon": "/src/assets/abilities/A36TacticalGrenade.png"
+            },
+            {
+                "name": "Sleep Dart",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "icon": "/src/assets/abilities/SleepDart.png"
+            },
+            {
+                "name": "Biotic Grenade",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "icon": "/src/assets/abilities/BioticGrenade.png"
+            },
+            {
+                "name": "Nano Boost",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "icon": "/src/assets/abilities/NanoBoost.png"
+            }
+        ]
+    },
+    {
+        "id": 2, 
+        "name": "Ashe", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Ashe.png", 
+        "background": "/src/assets/videos/Ashe.mp4",
+        "abilities": [
+            {
+                "name": "The Viper",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Coach Gun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Dynamite",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "B.O.B.",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 3, 
+        "name": "Baptiste", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Baptiste.png", 
+        "background": "/src/assets/videos/Baptiste.mp4",
+        "abilities": [
+            {
+                "name": "Biotic Launcher",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Regenerative Burst",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Immortality Field",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Amplification Matrix",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Exo Boots",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 4, 
+        "name": "Bastion", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Bastion.png", 
+        "background": "/src/assets/videos/Bastion.mp4",
+        "abilities": [
+            {
+                "name": "Configuration: Assault",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Configuration: Recon",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "A-36 Tactical Grenade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Reconfigure",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Configuration: Artillery",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 5, 
+        "name": "Brigitte", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Brigitte.png", 
+        "background": "/src/assets/videos/Brigitte.mp4",
+        "abilities": [
+            {
+                "name": "Rocket Flail",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Repair Pack",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Whip Shot",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Barrier Shield",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Shield Bash",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Rally",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Inspire",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 6, 
+        "name": "Cassidy", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Cassidy.png", 
+        "background": "/src/assets/videos/Cassidy.mp4",
+        "abilities": [
+            {
+                "name": "Peacekeeper",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Combat Roll",
+                "description": "Roll in the direction you're moving and reload.",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Magnetic Grenade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Deadeye",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 7, 
+        "name": "D.Va", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Dva.png", 
+        "background": "/src/assets/videos/Dva.mp4",
+        "abilities": [
+            {
+                "name": "Fusion Cannons",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Light Gun",
+                "description": ""
+            },
+            {
+                "name": "Boosters",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Defense Matrix",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Micro Missiles",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Self-Destruct",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Call Mech",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Eject!",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 8, 
+        "name": "Doomfist", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Doomfist.png", 
+        "background": "/src/assets/videos/Doomfist.mp4",
+        "abilities": [
+            {
+                "name": "Hand Cannon",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Rocket Punch",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Seismic Slam",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Power Block",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Meteor Strike",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 9, 
+        "name": "Echo", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Echo.png", 
+        "background": "/src/assets/videos/Echo.mp4",
+        "abilities": [
+            {
+                "name": "Tri-Shot",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Sticky Bombs",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Flight",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Focusing Beam",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Duplicate",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Glide",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 10, 
+        "name": "Genji", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Genji.png", 
+        "background": "/src/assets/videos/Genji.mp4",
+        "abilities": [
+            {
+                "name": "Shuriken",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Deflect",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Swift Strike",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Dragonblade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Cyber-Agility",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 11, 
+        "name": "Hanzo", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Hanzo.png", 
+        "background": "/src/assets/videos/Hanzo.mp4",
+        "abilities": [
+            {
+                "name": "Storm Bow",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Storm Arrows",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Sonic Arrow",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Lunge",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Dragonstrike",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Wall Climb",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 12, 
+        "name": "Junker Queen", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/JunkerQueen.png", 
+        "background": "/src/assets/videos/JunkerQueen.mp4",
+        "abilities": [
+            {
+                "name": "Scattergun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Jagged Blade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Commanding Shout",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Carnage",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Rampage",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Adrenaline Rush",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 13, 
+        "name": "Junkrat", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Junkrat.png", 
+        "background": "/src/assets/videos/Junkrat.mp4",
+        "abilities": [
+            {
+                "name": "Frag Launcher",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Concussion Mine",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Steel Trap",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Rip-Tire",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Total Mayhem",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 14, 
+        "name": "Kiriko", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Kiriko.png", 
+        "background": "/src/assets/videos/Kiriko.mp4",
+        "abilities": [
+            {
+                "name": "Healing Ofuda",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Kunai",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Swift Step",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Protection Suzu",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Kitsune Rush",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 15, 
+        "name": "Lifeweaver", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Lifeweaver.png", 
+        "background": "/src/assets/videos/Lifeweaver.mp4",
+        "abilities": [
+            {
+                "name": "Healing Blossom",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Thorn Volley",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Petal Platform",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Rejuvenating Dash",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Life Grip",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Tree of Life",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 16, 
+        "name": "Lúcio", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Lucio.png", 
+        "background": "/src/assets/videos/Lucio.mp4",
+        "abilities": [
+            {
+                "name": "Sonic Amplifier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Crossfade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Amp It Up",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Soundwave",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Sound Barrier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Wall Ride",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 17, 
+        "name": "Mauga", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Mauga.png", 
+        "background": "/src/assets/videos/Mauga.mp4",
+        "abilities": [
+            {
+                "name": "Overrun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Cardiac Overdrive",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Berserker",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Cage Fight",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 18, 
+        "name": "Mei", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Mei.png", 
+        "background": "/src/assets/videos/Mei.mp4",
+        "abilities": [
+            {
+                "name": "Endothermic Blaster",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Cryo-Freeze",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Ice Wall",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Blizzard",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 19, 
+        "name": "Mercy", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Mercy.png", 
+        "background": "/src/assets/videos/Mercy.mp4",
+        "abilities": [
+            {
+                "name": "Caduceus Staff",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Caduceus Blaster",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Guardian Angel",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Resurrect",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Angelic Descent",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Valkyrie",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 20, 
+        "name": "Moira", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Moira.png", 
+        "background": "/src/assets/videos/Moira.mp4",
+        "abilities": [
+            {
+                "name": "Biotic Grasp",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Biotic Orb",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Fade",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Coalescence",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 21, 
+        "name": "Orisa", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Orisa.png", 
+        "background": "/src/assets/videos/Orisa.mp4",
+        "abilities": [
+            {
+                "name": "Augmented Fusion Driver",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Energy Javelin",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Fortify",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Javelin Spin",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Terra Surge",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 22, 
+        "name": "Pharah", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Pharah.png", 
+        "background": "/src/assets/videos/Pharah.mp4",
+        "abilities": [
+            {
+                "name": "Rocket Launcher",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Jet Dash",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Jump Jet",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Concussive Blast",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Barrage",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Hover Jets",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 23, 
+        "name": "Ramattra", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Ramattra.png", 
+        "background": "/src/assets/videos/Ramattra.mp4",
+        "abilities": [
+            {
+                "name": "Void Accelerator (Omnic Form)",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Void Barrier (Omnic Form)",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Pummel (Nemesis Form)",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Ravenous Vortex",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Annihilation",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 24, 
+        "name": "Reaper", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Reaper.png", 
+        "background": "/src/assets/videos/Reaper.mp4",
+        "abilities": [
+            {
+                "name": "Hellfire Shotguns",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Shadow Step",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Wraith Form",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Death Blossom",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "The Reaping",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 25, 
+        "name": "Reinhardt", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Reinhardt.png", 
+        "background": "/src/assets/videos/Reinhardt.mp4",
+        "abilities": [
+            {
+                "name": "Rocket Hammer",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Charge",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Fire Strike",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Barrier Field",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Earthshatter",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 26, 
+        "name": "Roadhog", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Roadhog.png", 
+        "background": "/src/assets/videos/Roadhog.mp4",
+        "abilities": [
+            {
+                "name": "Scrap Gun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Chain Hook",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Take a Breather",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Pig Pen",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Whole Hog",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 27, 
+        "name": "Sigma", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Sigma.png", 
+        "background": "/src/assets/videos/Sigma.mp4",
+        "abilities": [
+            {
+                "name": "Hyperspheres",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Kinetic Grasp",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Accretion",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Experimental Barrier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Gravitic Flux",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 28, 
+        "name": "Sojourn", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Sojourn.png", 
+        "background": "/src/assets/videos/Sojourn.mp4",
+        "abilities": [
+            {
+                "name": "Railgun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Power Slide",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Disruptor Shot",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Overclock",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 29, 
+        "name": "Soldier: 76", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Soldier76.png", 
+        "background": "/src/assets/videos/Soldier76.mp4",
+        "abilities": [
+            {
+                "name": "Heavy Pulse Rifle",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Sprint",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Biotic Field",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Helix Rockets",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Tactical Visor",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 30, 
+        "name": "Sombra", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Sombra.png", 
+        "background": "/src/assets/videos/Sombra.mp4",
+        "abilities": [
+            {
+                "name": "Machine Pistol",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Hack",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Stealth",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Translocator",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Virus",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "EMP",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 31, 
+        "name": "Symmetra", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Symmetra.png", 
+        "background": "/src/assets/videos/Symmetra.mp4",
+        "abilities": [
+            {
+                "name": "Photon Projector",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Sentry Turret",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Teleporter",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Photon Barrier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 32, 
+        "name": "Torbjörn", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Torbjorn.png", 
+        "background": "/src/assets/videos/Torbjorn.mp4",
+        "abilities": [
+            {
+                "name": "Rivet Gun",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Forge Hammer",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Deploy Turret",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Overload",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Molten Core",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 33, 
+        "name": "Tracer", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Tracer.png", 
+        "background": "/src/assets/videos/Tracer.mp4",
+        "abilities": [
+            {
+                "name": "Pulse Pistols",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Blink",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Recall",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Pulse Bomb",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 34, 
+        "name": "Widowmaker", 
+        "role": "Damage", 
+        "portrait": "/src/assets/portrait/Widowmaker.png", 
+        "background": "/src/assets/videos/Widowmaker.mp4",
+        "abilities": [
+            {
+                "name": "Widow's Kiss",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Grappling Hook",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Venom Mine",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Infra-Sight",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 35, 
+        "name": "Winston", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Winston.png", 
+        "background": "/src/assets/videos/Winston.mp4",
+        "abilities": [
+            {
+                "name": "Tesla Cannon",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Jump Pack",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Barrier Projector",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Primal Rage",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 36, 
+        "name": "Wrecking Ball", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/WreckingBall.png", 
+        "background": "/src/assets/videos/WreckingBall.mp4",
+        "abilities": [
+            {
+                "name": "Quad Cannons",
+                "description": ""
+            },
+            {
+                "name": "Grappling Claw",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Roll",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Piledriver",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Adaptive Shield",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Minefield",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 37, 
+        "name": "Zarya", 
+        "role": "Tank", 
+        "portrait": "/src/assets/portrait/Zarya.png", 
+        "background": "/src/assets/videos/Zarya.mp4",
+        "abilities": [
+            {
+                "name": "Particle Cannon",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Particle Barrier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Projected Barrier",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Graviton Surge",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Energy",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    },
+    {
+        "id": 38, 
+        "name": "Zenyatta", 
+        "role": "Support", 
+        "portrait": "/src/assets/portrait/Zenyatta.png", 
+        "background": "/src/assets/videos/Zenyatta.mp4",
+        "abilities": [
+            {
+                "name": "Orb of Destruction",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Orb of Discord",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Orb of Harmony",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Transcendence",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            },
+            {
+                "name": "Snap Kick",
+                "description": "",
+                "icon": "/src/assets/abilities/.png"
+            }
+        ]
+    }
+]
