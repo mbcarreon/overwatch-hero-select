@@ -38,22 +38,22 @@
             {
                 "name": "The Viper",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TheViper.png"
             },
             {
                 "name": "Coach Gun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CoachGun.png"
             },
             {
                 "name": "Dynamite",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Dynamite.png"
             },
             {
                 "name": "B.O.B.",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BOB.png"
             }
         ]
     },
@@ -67,27 +67,27 @@
             {
                 "name": "Biotic Launcher",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BioticLauncher.png"
             },
             {
                 "name": "Regenerative Burst",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RegenerativeBurst.png"
             },
             {
                 "name": "Immortality Field",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ImmortalityField.png"
             },
             {
                 "name": "Amplification Matrix",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AmplificationMatrix.png"
             },
             {
                 "name": "Exo Boots",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ExoBoots.png"
             }
         ]
     },
@@ -101,27 +101,27 @@
             {
                 "name": "Configuration: Assault",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ConfigurationAssault.png"
             },
             {
                 "name": "Configuration: Recon",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ConfigurationRecon.png"
             },
             {
                 "name": "A-36 Tactical Grenade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/A36TacticalGrenade.png"
             },
             {
                 "name": "Reconfigure",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Reconfigure.png"
             },
             {
                 "name": "Configuration: Artillery",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ConfigurationArtillery.png"
             }
         ]
     },
@@ -135,37 +135,37 @@
             {
                 "name": "Rocket Flail",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RocketFlail.png"
             },
             {
                 "name": "Repair Pack",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RepairPack.png"
             },
             {
                 "name": "Whip Shot",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WhipShot.png"
             },
             {
                 "name": "Barrier Shield",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BarrierShield.png"
             },
             {
                 "name": "Shield Bash",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ShieldBash.png"
             },
             {
                 "name": "Rally",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Rally.png"
             },
             {
                 "name": "Inspire",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Inspire.png"
             }
         ]
     },
@@ -179,22 +179,22 @@
             {
                 "name": "Peacekeeper",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Peacekeeper.png"
             },
             {
                 "name": "Combat Roll",
-                "description": "Roll in the direction you're moving and reload.",
-                "icon": "/src/assets/abilities/.png"
+                "description": "",
+                "icon": "/src/assets/abilities/CombatRoll.png"
             },
             {
                 "name": "Magnetic Grenade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/MagneticGrenade.png"
             },
             {
                 "name": "Deadeye",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Deadeye.png"
             }
         ]
     },
@@ -208,41 +208,42 @@
             {
                 "name": "Fusion Cannons",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/FusionCannons.png"
             },
             {
                 "name": "Light Gun",
-                "description": ""
+                "description": "",
+                "icon": "/src/assets/abilities/LightGun.png"
             },
             {
                 "name": "Boosters",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Boosters.png"
             },
             {
                 "name": "Defense Matrix",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/DefenseMatrix.png"
             },
             {
                 "name": "Micro Missiles",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/MicroMissiles.png"
             },
             {
                 "name": "Self-Destruct",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SelfDestruct.png"
             },
             {
                 "name": "Call Mech",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CallMech.png"
             },
             {
                 "name": "Eject!",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Eject.png"
             }
         ]
     },
@@ -256,27 +257,27 @@
             {
                 "name": "Hand Cannon",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HandCannon.png"
             },
             {
                 "name": "Rocket Punch",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RocketPunch.png"
             },
             {
                 "name": "Seismic Slam",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SeismicSlam.png"
             },
             {
                 "name": "Power Block",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PowerBlock.png"
             },
             {
                 "name": "Meteor Strike",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/MeteorStrike.png"
             }
         ]
     },
@@ -290,32 +291,32 @@
             {
                 "name": "Tri-Shot",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TriShot.png"
             },
             {
                 "name": "Sticky Bombs",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/StickyBombs.png"
             },
             {
                 "name": "Flight",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Flight.png"
             },
             {
                 "name": "Focusing Beam",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/FocusingBeam.png"
             },
             {
                 "name": "Duplicate",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Duplicate.png"
             },
             {
                 "name": "Glide",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Glide.png"
             }
         ]
     },
@@ -329,27 +330,27 @@
             {
                 "name": "Shuriken",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Shuriken.png"
             },
             {
                 "name": "Deflect",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Deflect.png"
             },
             {
                 "name": "Swift Strike",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SwiftStrike.png"
             },
             {
                 "name": "Dragonblade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Dragonblade.png"
             },
             {
                 "name": "Cyber-Agility",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CyberAgility.png"
             }
         ]
     },
@@ -363,32 +364,32 @@
             {
                 "name": "Storm Bow",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/StormBow.png"
             },
             {
                 "name": "Storm Arrows",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/StormArrows.png"
             },
             {
                 "name": "Sonic Arrow",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SonicArrow.png"
             },
             {
                 "name": "Lunge",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Lunge.png"
             },
             {
                 "name": "Dragonstrike",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Dragonstrike.png"
             },
             {
                 "name": "Wall Climb",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WallClimb.png"
             }
         ]
     },
@@ -402,32 +403,32 @@
             {
                 "name": "Scattergun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Scattergun.png"
             },
             {
                 "name": "Jagged Blade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/JaggedBlade.png"
             },
             {
                 "name": "Commanding Shout",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CommandingShout.png"
             },
             {
                 "name": "Carnage",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Carnage.png"
             },
             {
                 "name": "Rampage",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Rampage.png"
             },
             {
                 "name": "Adrenaline Rush",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AdrenalineRush.png"
             }
         ]
     },
@@ -441,27 +442,27 @@
             {
                 "name": "Frag Launcher",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/FragLauncher.png"
             },
             {
                 "name": "Concussion Mine",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ConcussionMine.png"
             },
             {
                 "name": "Steel Trap",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SteelTrap.png"
             },
             {
                 "name": "Rip-Tire",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RipTire.png"
             },
             {
                 "name": "Total Mayhem",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TotalMayhem.png"
             }
         ]
     },
@@ -475,27 +476,27 @@
             {
                 "name": "Healing Ofuda",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HealingOfuda.png"
             },
             {
                 "name": "Kunai",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Kunai.png"
             },
             {
                 "name": "Swift Step",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SwiftStep.png"
             },
             {
                 "name": "Protection Suzu",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ProtectionSuzu.png"
             },
             {
                 "name": "Kitsune Rush",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/KitsuneRush.png"
             }
         ]
     },
@@ -509,32 +510,32 @@
             {
                 "name": "Healing Blossom",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HealingBlossom.png"
             },
             {
                 "name": "Thorn Volley",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ThornVolley.png"
             },
             {
                 "name": "Petal Platform",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PetalPlatform.png"
             },
             {
                 "name": "Rejuvenating Dash",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RejuvenatingDash.png"
             },
             {
                 "name": "Life Grip",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/LifeGrip.png"
             },
             {
                 "name": "Tree of Life",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TreeOfLife.png"
             }
         ]
     },
@@ -548,32 +549,32 @@
             {
                 "name": "Sonic Amplifier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SonicAmplifier.png"
             },
             {
                 "name": "Crossfade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Crossfade.png"
             },
             {
                 "name": "Amp It Up",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AmpItUp.png"
             },
             {
                 "name": "Soundwave",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Soundwave.png"
             },
             {
                 "name": "Sound Barrier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SoundBarrier.png"
             },
             {
                 "name": "Wall Ride",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WallRide.png"
             }
         ]
     },
@@ -587,22 +588,22 @@
             {
                 "name": "Overrun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Overrun.png"
             },
             {
                 "name": "Cardiac Overdrive",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CardiacOverdrive.png"
             },
             {
                 "name": "Berserker",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Berserker.png"
             },
             {
                 "name": "Cage Fight",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CageFight.png"
             }
         ]
     },
@@ -616,22 +617,22 @@
             {
                 "name": "Endothermic Blaster",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/EndothermicBlaster.png"
             },
             {
                 "name": "Cryo-Freeze",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CryoFreeze.png"
             },
             {
                 "name": "Ice Wall",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/IceWall.png"
             },
             {
                 "name": "Blizzard",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Blizzard.png"
             }
         ]
     },
@@ -645,32 +646,32 @@
             {
                 "name": "Caduceus Staff",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CaduceusStaff.png"
             },
             {
                 "name": "Caduceus Blaster",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/CaduceusBlaster.png"
             },
             {
                 "name": "Guardian Angel",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/GuardianAngel.png"
             },
             {
                 "name": "Resurrect",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Resurrect.png"
             },
             {
                 "name": "Angelic Descent",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AngelicDescent.png"
             },
             {
                 "name": "Valkyrie",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Valkyrie.png"
             }
         ]
     },
@@ -684,22 +685,22 @@
             {
                 "name": "Biotic Grasp",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BioticGrasp.png"
             },
             {
                 "name": "Biotic Orb",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BioticOrb.png"
             },
             {
                 "name": "Fade",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Fade.png"
             },
             {
                 "name": "Coalescence",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Coalescence.png"
             }
         ]
     },
@@ -713,27 +714,27 @@
             {
                 "name": "Augmented Fusion Driver",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AugmentedFusionDriver.png"
             },
             {
                 "name": "Energy Javelin",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/EnergyJavelin.png"
             },
             {
                 "name": "Fortify",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Fortify.png"
             },
             {
                 "name": "Javelin Spin",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/JavelinSpin.png"
             },
             {
                 "name": "Terra Surge",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TerraSurge.png"
             }
         ]
     },
@@ -747,32 +748,32 @@
             {
                 "name": "Rocket Launcher",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RocketLauncher.png"
             },
             {
                 "name": "Jet Dash",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/JetDash.png"
             },
             {
                 "name": "Jump Jet",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/JumpJet.png"
             },
             {
                 "name": "Concussive Blast",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ConcussiveBlast.png"
             },
             {
                 "name": "Barrage",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Barrage.png"
             },
             {
                 "name": "Hover Jets",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HoverJet.png"
             }
         ]
     },
@@ -786,27 +787,27 @@
             {
                 "name": "Void Accelerator (Omnic Form)",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/VoidAccelerator.png"
             },
             {
                 "name": "Void Barrier (Omnic Form)",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/VoidBarrier.png"
             },
             {
                 "name": "Pummel (Nemesis Form)",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Pummel.png"
             },
             {
                 "name": "Ravenous Vortex",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RavenousVortex.png"
             },
             {
                 "name": "Annihilation",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Annihilation.png"
             }
         ]
     },
@@ -820,27 +821,27 @@
             {
                 "name": "Hellfire Shotguns",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HellfireShotguns.png"
             },
             {
                 "name": "Shadow Step",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ShadowStep.png"
             },
             {
                 "name": "Wraith Form",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WraithForm.png"
             },
             {
                 "name": "Death Blossom",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/DeathBlossom.png"
             },
             {
                 "name": "The Reaping",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TheReaping.png"
             }
         ]
     },
@@ -854,27 +855,27 @@
             {
                 "name": "Rocket Hammer",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RocketHammer.png"
             },
             {
                 "name": "Charge",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Charge.png"
             },
             {
                 "name": "Fire Strike",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/FireStrike.png"
             },
             {
                 "name": "Barrier Field",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BarrierField.png"
             },
             {
                 "name": "Earthshatter",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Earthshatter.png"
             }
         ]
     },
@@ -888,27 +889,27 @@
             {
                 "name": "Scrap Gun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ScrapGun.png"
             },
             {
                 "name": "Chain Hook",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ChainHook.png"
             },
             {
                 "name": "Take a Breather",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TakeABreather.png"
             },
             {
                 "name": "Pig Pen",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PigPen.png"
             },
             {
                 "name": "Whole Hog",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WholeHog.png"
             }
         ]
     },
@@ -922,27 +923,27 @@
             {
                 "name": "Hyperspheres",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Hyperspheres.png"
             },
             {
                 "name": "Kinetic Grasp",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/KineticGrasp.png"
             },
             {
                 "name": "Accretion",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Accretion.png"
             },
             {
                 "name": "Experimental Barrier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ExperimentalBarrier.png"
             },
             {
                 "name": "Gravitic Flux",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/GraviticFlux.png"
             }
         ]
     },
@@ -956,22 +957,22 @@
             {
                 "name": "Railgun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Railgun.png"
             },
             {
                 "name": "Power Slide",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PowerSlide.png"
             },
             {
                 "name": "Disruptor Shot",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/DisruptorShot.png"
             },
             {
                 "name": "Overclock",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Overclock.png"
             }
         ]
     },
@@ -985,27 +986,27 @@
             {
                 "name": "Heavy Pulse Rifle",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HeavyPulseRifle.png"
             },
             {
                 "name": "Sprint",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Sprint.png"
             },
             {
                 "name": "Biotic Field",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BioticField.png"
             },
             {
                 "name": "Helix Rockets",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/HelixRockets.png"
             },
             {
                 "name": "Tactical Visor",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/TacticalVisor.png"
             }
         ]
     },
@@ -1019,32 +1020,32 @@
             {
                 "name": "Machine Pistol",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/MachinePistol.png"
             },
             {
                 "name": "Hack",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Hack.png"
             },
             {
                 "name": "Stealth",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Stealth.png"
             },
             {
                 "name": "Translocator",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Translocator.png"
             },
             {
                 "name": "Virus",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Virus.png"
             },
             {
                 "name": "EMP",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/EMP.png"
             }
         ]
     },
@@ -1058,22 +1059,22 @@
             {
                 "name": "Photon Projector",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PhotonProjector.png"
             },
             {
                 "name": "Sentry Turret",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SentryTurret.png"
             },
             {
                 "name": "Teleporter",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Teleporter.png"
             },
             {
                 "name": "Photon Barrier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PhotonBarrier.png"
             }
         ]
     },
@@ -1087,27 +1088,27 @@
             {
                 "name": "Rivet Gun",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/RivetGun.png"
             },
             {
                 "name": "Forge Hammer",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ForgeHammer.png"
             },
             {
                 "name": "Deploy Turret",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/DeployTurret.png"
             },
             {
                 "name": "Overload",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Overload.png"
             },
             {
                 "name": "Molten Core",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/MoltenCore.png"
             }
         ]
     },
@@ -1121,22 +1122,22 @@
             {
                 "name": "Pulse Pistols",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PulsePistols.png"
             },
             {
                 "name": "Blink",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Blink.png"
             },
             {
                 "name": "Recall",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Recall.png"
             },
             {
                 "name": "Pulse Bomb",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PulseBomb.png"
             }
         ]
     },
@@ -1150,22 +1151,22 @@
             {
                 "name": "Widow's Kiss",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/WidowsKiss.png"
             },
             {
                 "name": "Grappling Hook",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/GrapplingHook.png"
             },
             {
                 "name": "Venom Mine",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/VenomMine.png"
             },
             {
                 "name": "Infra-Sight",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/InfraSight.png"
             }
         ]
     },
@@ -1177,24 +1178,24 @@
         "background": "/src/assets/videos/Winston.mp4",
         "abilities": [
             {
-                "name": "Tesla Cannon",
+                "name": "TeslaCannon",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Tesla Cannon.png"
             },
             {
-                "name": "Jump Pack",
+                "name": "JumpPack",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Jump Pack.png"
             },
             {
-                "name": "Barrier Projector",
+                "name": "BarrierProjector",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/BarrierProjector.png"
             },
             {
-                "name": "Primal Rage",
+                "name": "PrimalRage",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/PrimalRage.png"
             }
         ]
     },
@@ -1207,27 +1208,28 @@
         "abilities": [
             {
                 "name": "Quad Cannons",
-                "description": ""
+                "description": "",
+                "icon": "/src/assets/abilities/QuadCannons.png"
             },
             {
                 "name": "Grappling Claw",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/GrapplingClaw.png"
             },
             {
                 "name": "Roll",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Roll.png"
             },
             {
                 "name": "Piledriver",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Piledriver.png"
             },
             {
                 "name": "Adaptive Shield",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/AdaptiveShield.png"
             },
             {
                 "name": "Minefield",
@@ -1246,27 +1248,27 @@
             {
                 "name": "Particle Cannon",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ParticleCannon.png"
             },
             {
                 "name": "Particle Barrier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ParticleBarrier.png"
             },
             {
                 "name": "Projected Barrier",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/ProjectedBarrier.png"
             },
             {
                 "name": "Graviton Surge",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/GravitonSurge.png"
             },
             {
                 "name": "Energy",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Energy.png"
             }
         ]
     },
@@ -1280,27 +1282,27 @@
             {
                 "name": "Orb of Destruction",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/OrbOfDestruction.png"
             },
             {
                 "name": "Orb of Discord",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/OrbOfDiscord.png"
             },
             {
                 "name": "Orb of Harmony",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/OrbOfHarmony.png"
             },
             {
                 "name": "Transcendence",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/Transcendence.png"
             },
             {
                 "name": "Snap Kick",
                 "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "icon": "/src/assets/abilities/SnapKick.png"
             }
         ]
     }
