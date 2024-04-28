@@ -7,175 +7,245 @@ const currentHero = ref(0);
 const videoRef = ref(null);
 const currentAbility = ref(null);
 
-const changeHero = (id) => {
-  currentHero.value = id - 1;
-  const video = videoRef.value;
-  if (video) video.load();
-};
-
 const changeAbility = (abilityName) => {
   const selectedHero = heroes.value[currentHero.value];
   const selectedAbility = selectedHero.abilities.find(ability => ability.name === abilityName);
   currentAbility.value = { ...selectedAbility };
 };
 
+const changeHero = (id) => {
+  currentHero.value = id - 1;
+  videoRef.value?.load();
+  changeAbility(heroes.value[currentHero.value].abilities[0].name);
+};
+
 onMounted(() => {
-  if (heroes.value[currentHero.value].abilities.length > 0) {
-    changeAbility(heroes.value[currentHero.value].abilities[0].name);
-  }
+  changeAbility(heroes.value[currentHero.value].abilities[0].name);
 });
+
+const isAbilityActive = (abilityName) => {
+  return currentAbility.value && currentAbility.value.name === abilityName;
+};
+
+const isHeroActive = (heroId) => {
+  return currentHero.value === heroId;
+};
 </script>
 
 <template>
-  <div class="main-container">
-    <video autoplay loop id="background-video" ref="videoRef">
-      <source :src="heroes[currentHero].background" type="video/mp4">
-    </video>
-    <div class="hero-details-container">
+  <div class="content">
+    <div class="top-container">
       <h2>{{ heroes[currentHero].role }}</h2>
       <h1>{{ heroes[currentHero].name }}</h1>
-      <div class="abilities-container">
-        <div class="abilities-sub-container" v-for="ability in heroes[currentHero].abilities" :key="ability.name" @click="changeAbility(ability.name)">
+      <div class="abilities">
+        <div 
+          v-for="ability in heroes[currentHero].abilities" 
+          :key="ability.name" 
+          @click="changeAbility(ability.name)"
+          :class="{ 'active': isAbilityActive(ability.name) }"
+        >
           <img :src="ability.icon">
         </div>
       </div>
       <h3 v-if="currentAbility">{{ currentAbility.name }}</h3>
       <h4 v-if="currentAbility">{{ currentAbility.description }}</h4>
     </div>
-    <div class="heroes-container">
-      <div class="heroes-sub-container" v-for="hero in heroes" :key="hero.id" @click="changeHero(hero.id)">
-        <img :src="hero.portrait">
+    <div class="bot-container">
+      <div class="portraits">
+        <div 
+          class="corner-border" 
+          v-for="(hero, index) in heroes"
+          :key="hero.id" 
+          @click="changeHero(hero.id)"
+          :class="{ 'active': isHeroActive(index) }"
+        >
+            <img :src="hero.portrait">
+        </div>
       </div>
+      <button>Ready</button>
     </div>
-    <div class="button-container">
-      <button>Select</button>
-    </div>
+    
+    <video autoplay loop class="background" ref="videoRef">
+      <source :src="heroes[currentHero].background" type="video/mp4">
+    </video>
   </div>
 </template>
 
 <style scoped>
-.main-container {
+.content {
   width: 100%;
-  padding: 48px;
+  height: 100vh;
+  padding: 32px;
   display: flex;
   flex-direction: column;
 }
 
-#background-video {
+.background {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
   object-fit: cover;
   z-index: -1;
   transition: .5s;
 }
 
-.hero-details-container {
-  width: 40%;
+.top-container {
+  width: 100%;
+  height: max-content;
   display: flex;
   flex-direction: column;
 }
 
-h1, h2, h3 {
+.bot-container {
+  width: 100%;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  margin-top: auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
   margin: 0;
-  padding: 0;
-  line-height: 0.8;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  text-shadow: 1px 1px 4px #060606;
 }
 
 h1 {
-  margin: 16px 0px 32px 0px;
-  font-size: 6rem;
+  color: rgb(93, 230, 247);
+  font-family: 'DISPLAYEDOblique';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 8rem;
+  letter-spacing: -18px;
+  text-transform: uppercase;
+  margin-bottom: -8px;
+  margin-left: -13px;
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-family: 'DISPLAYEDOblique';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: -24px;
+  margin-left: -2px;
 }
 
 h3 {
-  margin: 32px 0px 8px 0px;
-  font-size: 2rem;
+  font-family: 'DIN Next LT Pro';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.3rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 2px;
 }
 
 h4 {
-  font-family: "Roboto";
-  font-size: 1rem;
-  letter-spacing: .90px;
+  width: 30%;
+  font-family: 'DIN Next Rounded LT Pro';
+  font-weight: 300;
+  font-style: normal;
+  font-size: .9rem;
 }
 
-.abilities-container {
+.abilities {
+  width: 20%;
   display: flex;
   flex-direction: row;
-  gap: 12px;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
 }
 
-.abilities-sub-container {
-  width: 60px;
-  height: 60px;
-  padding: 12px;
-  background-color: rgba(1, 1, 1, .40);
-  border: 2px solid rgb(190, 190, 190);
+.abilities div {
+  width: 46px;
+  height: 46px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: none;
   border-radius: 100%;
-  transition: 0.3s;
+  background-color: rgba(255, 255, 255, 0.1);
   cursor: pointer;
 }
 
-.abilities-sub-container img {
+.abilities div:hover,
+.abilities .active {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.portraits {
+  width: 80%;
+  height: max-content;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.portraits div {
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+  background-color: none;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(5px);
+  cursor: pointer;
+}
+
+.portraits div:hover,
+.portraits .active {
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.abilities img,
+.portraits img {
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
 
-.heroes-container {
-  width: 90%;
-  height: max-content;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
-  margin: auto;
-  margin-top: 280px;
-}
-
-.heroes-sub-container {
-  width: 55px;
-  height: 55px;
-  background-color: rgba(1, 1, 1, .60);
-  border: 2px solid rgb(190, 190, 190);
-  border-radius: 6px;
-  transition: 0.3s;
-  cursor: pointer;
-}
-
-.heroes-sub-container:hover {
-  transition: 0.3s;
-  transform: scale(1.15);
-}
-
-.heroes-sub-container img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 6px;
-}
-
-.button-container {
-  margin: auto;
-  margin-top: 32px;
+.corner-border {
+  --b: 1px;   /* thickness of the border */
+  --c: rgb(255, 255, 255);   /* color of the border */
+  --w: 1px;  /* width of border */
+  
+  border: var(--b) solid #0000; /* space for the border */
+  --_g: #0000 90deg,var(--c) 0;
+  --_p: var(--w) var(--w) border-box no-repeat;
+  background:
+    conic-gradient(from 90deg  at top    var(--b) left  var(--b),var(--_g)) 0    0    / var(--_p),
+    conic-gradient(from 180deg at top    var(--b) right var(--b),var(--_g)) 100% 0    / var(--_p),
+    conic-gradient(from 0deg   at bottom var(--b) left  var(--b),var(--_g)) 0    100% / var(--_p),
+    conic-gradient(from -90deg at bottom var(--b) right var(--b),var(--_g)) 100% 100% / var(--_p);
 }
 
 button {
   width: max-content;
-  padding: 8px 24px 4px 24px;
-  background-color: rgb(0, 220, 217);
-  color: 2px solid rgb(255, 255, 255);
-  font-size: 1.5rem;
-  letter-spacing: 2px;
-  text-align: center;
+  padding: 8px 24px 5px 24px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
   border: none;
-  border-radius: 8px;
+  background-color: rgb(240, 100, 20);
+  color: #fff;
+  font-family: 'DIN Next LT Pro';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.3rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 1px #757575;
   cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(204, 87, 18);
 }
 </style>
