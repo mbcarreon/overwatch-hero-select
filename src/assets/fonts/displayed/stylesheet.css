@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'DISPLAYEDOblique';
+    src: url('DISPLAYEDOblique.eot');
+    src: local('DISPLAYEDOblique'),
+        url('DISPLAYEDOblique.eot?#iefix') format('embedded-opentype'),
+        url('DISPLAYEDOblique.woff2') format('woff2'),
+        url('DISPLAYEDOblique.woff') format('woff'),
+        url('DISPLAYEDOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DISPLAYED';
+    src: url('DISPLAYED.eot');
+    src: local('DISPLAYED'),
+        url('DISPLAYED.eot?#iefix') format('embedded-opentype'),
+        url('DISPLAYED.woff2') format('woff2'),
+        url('DISPLAYED.woff') format('woff'),
+        url('DISPLAYED.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
