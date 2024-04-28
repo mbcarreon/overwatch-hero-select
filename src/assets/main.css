@@ -1,8 +1,4 @@
 @import './base.css';
-
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Figtree:wght@300&family=Instrument+Serif:ital@0;1&display=swap');
-
-* {
-  color: white;
-  font-family: "Bebas Neue";
-}
+@import './fonts/din-next-lt-pro/stylesheet.css';
+@import './fonts/displayed/stylesheet.css';
+@import './fonts/mark/stylesheet.css';
