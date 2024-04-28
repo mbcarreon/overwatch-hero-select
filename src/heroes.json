@@ -4,26 +4,26 @@
         "name": "Ana", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Ana.png", 
-        "background": "/src/assets/videos/Ana.mp4",
+        "background": "/src/assets/videos/Ana.webm",
         "abilities": [
             {
                 "name": "Biotic Rifle",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "description": "Long-range rifle that heals allies and damages enemies. Hold to zoom in.",
                 "icon": "/src/assets/abilities/A36TacticalGrenade.png"
             },
             {
                 "name": "Sleep Dart",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "description": "Fires a dart that puts an enemy to sleep.",
                 "icon": "/src/assets/abilities/SleepDart.png"
             },
             {
                 "name": "Biotic Grenade",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "description": "Throws a grenade that heals and increases healing on allies, while damaging and preventing healing on enemies.",
                 "icon": "/src/assets/abilities/BioticGrenade.png"
             },
             {
                 "name": "Nano Boost",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "description": "Increases an ally's damage, while reducing damage taken.",
                 "icon": "/src/assets/abilities/NanoBoost.png"
             }
         ]
@@ -33,26 +33,26 @@
         "name": "Ashe", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Ashe.png", 
-        "background": "/src/assets/videos/Ashe.mp4",
+        "background": "/src/assets/videos/Ashe.webm",
         "abilities": [
             {
                 "name": "The Viper",
-                "description": "",
+                "description": "Semi-automatic rifle. Hold to zoom in, increasing damage and accuracy but slowing rifle rate of fire.",
                 "icon": "/src/assets/abilities/TheViper.png"
             },
             {
                 "name": "Coach Gun",
-                "description": "",
+                "description": "Blast enemies in front of you and knock yourself backwards.",
                 "icon": "/src/assets/abilities/CoachGun.png"
             },
             {
                 "name": "Dynamite",
-                "description": "",
+                "description": "Throw an explosive that detonates after a short delay or immediately when shot.",
                 "icon": "/src/assets/abilities/Dynamite.png"
             },
             {
                 "name": "B.O.B.",
-                "description": "",
+                "description": "Deploy Bob. He charges forward and knocks enemies into the air, then attacks with his arm cannons.",
                 "icon": "/src/assets/abilities/BOB.png"
             }
         ]
@@ -62,31 +62,31 @@
         "name": "Baptiste", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Baptiste.png", 
-        "background": "/src/assets/videos/Baptiste.mp4",
+        "background": "/src/assets/videos/Baptiste.webm",
         "abilities": [
             {
                 "name": "Biotic Launcher",
-                "description": "",
+                "description": "Three-round burst gun. Lob a healing projectile that heals all allies near the impact.",
                 "icon": "/src/assets/abilities/BioticLauncher.png"
             },
             {
                 "name": "Regenerative Burst",
-                "description": "",
+                "description": "Activate to heal yourself or nearby allies instantly, with additional healing over time. Instant heal is doubled for tragets less than half health.",
                 "icon": "/src/assets/abilities/RegenerativeBurst.png"
             },
             {
                 "name": "Immortality Field",
-                "description": "",
+                "description": "Toss a device that prevents allies from dying. The device can be destroyed.",
                 "icon": "/src/assets/abilities/ImmortalityField.png"
             },
             {
                 "name": "Amplification Matrix",
-                "description": "",
+                "description": "Project a matrix that doubles the damage and healing effcts of allied projectiles.",
                 "icon": "/src/assets/abilities/AmplificationMatrix.png"
             },
             {
                 "name": "Exo Boots",
-                "description": "",
+                "description": "Hold crouch to jump higher.",
                 "icon": "/src/assets/abilities/ExoBoots.png"
             }
         ]
@@ -96,31 +96,31 @@
         "name": "Bastion", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Bastion.png", 
-        "background": "/src/assets/videos/Bastion.mp4",
+        "background": "/src/assets/videos/Bastion.webm",
         "abilities": [
             {
                 "name": "Configuration: Assault",
-                "description": "",
+                "description": "A slow-moving tank with a powerful rotary cannon.",
                 "icon": "/src/assets/abilities/ConfigurationAssault.png"
             },
             {
                 "name": "Configuration: Recon",
-                "description": "",
+                "description": "Mobile, with a lightweight and highly accurate weapon.",
                 "icon": "/src/assets/abilities/ConfigurationRecon.png"
             },
             {
                 "name": "A-36 Tactical Grenade",
-                "description": "",
+                "description": "Fire a bomb that bounces off walls and explodes when it impacts enemies or the ground.",
                 "icon": "/src/assets/abilities/A36TacticalGrenade.png"
             },
             {
                 "name": "Reconfigure",
-                "description": "",
+                "description": "Switch between weapon configurations.",
                 "icon": "/src/assets/abilities/Reconfigure.png"
             },
             {
                 "name": "Configuration: Artillery",
-                "description": "",
+                "description": "Become immobile and fire up to 3 powerful artillery shells.",
                 "icon": "/src/assets/abilities/ConfigurationArtillery.png"
             }
         ]
@@ -130,41 +130,41 @@
         "name": "Brigitte", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Brigitte.png", 
-        "background": "/src/assets/videos/Brigitte.mp4",
+        "background": "/src/assets/videos/Brigitte.webm",
         "abilities": [
             {
                 "name": "Rocket Flail",
-                "description": "",
+                "description": "Melee weapon with extended range.",
                 "icon": "/src/assets/abilities/RocketFlail.png"
             },
             {
                 "name": "Repair Pack",
-                "description": "",
+                "description": "Heals an ally for a short duration.",
                 "icon": "/src/assets/abilities/RepairPack.png"
             },
             {
                 "name": "Whip Shot",
-                "description": "",
+                "description": "Launch your flail forward to knock an enemy away from you.",
                 "icon": "/src/assets/abilities/WhipShot.png"
             },
             {
                 "name": "Barrier Shield",
-                "description": "",
+                "description": "Hold mouse to deploy a frontal energy barrier.",
                 "icon": "/src/assets/abilities/BarrierShield.png"
             },
             {
                 "name": "Shield Bash",
-                "description": "",
+                "description": "Available when Barrier Shield is deployed. Dash forward to knock back an enemy.",
                 "icon": "/src/assets/abilities/ShieldBash.png"
             },
             {
                 "name": "Rally",
-                "description": "",
+                "description": "Gain armor, empower Barrier Shield, and provide extra health to nearby allies.",
                 "icon": "/src/assets/abilities/Rally.png"
             },
             {
                 "name": "Inspire",
-                "description": "",
+                "description": "Dealing damage to enemies heals nearby allies.",
                 "icon": "/src/assets/abilities/Inspire.png"
             }
         ]
@@ -174,26 +174,26 @@
         "name": "Cassidy", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Cassidy.png", 
-        "background": "/src/assets/videos/Cassidy.mp4",
+        "background": "/src/assets/videos/Cassidy.webm",
         "abilities": [
             {
                 "name": "Peacekeeper",
-                "description": "",
+                "description": "Accurate, powerful revolver. Wildly fire remaining rounds.",
                 "icon": "/src/assets/abilities/Peacekeeper.png"
             },
             {
                 "name": "Combat Roll",
-                "description": "",
+                "description": "Roll in the direction you're moving to take reduced damage and reload.",
                 "icon": "/src/assets/abilities/CombatRoll.png"
             },
             {
                 "name": "Magnetic Grenade",
-                "description": "",
+                "description": "Throw a homing grenade that sticks to enemies, slowing them and preventing them from using movement abilities.",
                 "icon": "/src/assets/abilities/MagneticGrenade.png"
             },
             {
                 "name": "Deadeye",
-                "description": "",
+                "description": "Face off against your enemies. Press Q to lock on, then Q or ABILITY 3 to fire.",
                 "icon": "/src/assets/abilities/Deadeye.png"
             }
         ]
@@ -203,46 +203,46 @@
         "name": "D.Va", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Dva.png", 
-        "background": "/src/assets/videos/Dva.mp4",
+        "background": "/src/assets/videos/Dva.webm",
         "abilities": [
             {
                 "name": "Fusion Cannons",
-                "description": "",
+                "description": "Automatic short-range spread weapons.",
                 "icon": "/src/assets/abilities/FusionCannons.png"
             },
             {
                 "name": "Light Gun",
-                "description": "",
+                "description": "Automatic weapon",
                 "icon": "/src/assets/abilities/LightGun.png"
             },
             {
                 "name": "Boosters",
-                "description": "",
+                "description": "Fly in the direction you are facing.",
                 "icon": "/src/assets/abilities/Boosters.png"
             },
             {
                 "name": "Defense Matrix",
-                "description": "",
+                "description": "Block projectiles in an area in front of you.",
                 "icon": "/src/assets/abilities/DefenseMatrix.png"
             },
             {
                 "name": "Micro Missiles",
-                "description": "",
+                "description": "Launch a volley of explosive rockets.",
                 "icon": "/src/assets/abilities/MicroMissiles.png"
             },
             {
                 "name": "Self-Destruct",
-                "description": "",
+                "description": "Eject and overload your mech, causing it to explode after a short time.",
                 "icon": "/src/assets/abilities/SelfDestruct.png"
             },
             {
                 "name": "Call Mech",
-                "description": "",
+                "description": "Call down a new mech.",
                 "icon": "/src/assets/abilities/CallMech.png"
             },
             {
                 "name": "Eject!",
-                "description": "",
+                "description": "Eject out of your mech when it is destroyed.",
                 "icon": "/src/assets/abilities/Eject.png"
             }
         ]
@@ -252,31 +252,31 @@
         "name": "Doomfist", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Doomfist.png", 
-        "background": "/src/assets/videos/Doomfist.mp4",
+        "background": "/src/assets/videos/Doomfist.webm",
         "abilities": [
             {
                 "name": "Hand Cannon",
-                "description": "",
+                "description": "Short-range weapon with spread. Reloads automatically.",
                 "icon": "/src/assets/abilities/HandCannon.png"
             },
             {
                 "name": "Rocket Punch",
-                "description": "",
+                "description": "Hold to charge then release to launch forward and knock an enemy back. Damage increases if the enemy hits a wall.",
                 "icon": "/src/assets/abilities/RocketPunch.png"
             },
             {
                 "name": "Seismic Slam",
-                "description": "",
+                "description": "Leap and smash the ground.",
                 "icon": "/src/assets/abilities/SeismicSlam.png"
             },
             {
                 "name": "Power Block",
-                "description": "",
+                "description": "Protect yourself from frontal attacks. Blocking heavy damage empowers Rocket Punch.",
                 "icon": "/src/assets/abilities/PowerBlock.png"
             },
             {
                 "name": "Meteor Strike",
-                "description": "",
+                "description": "Press Q to leap up into the air. Move the targeting circle, then press ABILITY 3 to strike the targeted area.",
                 "icon": "/src/assets/abilities/MeteorStrike.png"
             }
         ]
@@ -286,36 +286,36 @@
         "name": "Echo", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Echo.png", 
-        "background": "/src/assets/videos/Echo.mp4",
+        "background": "/src/assets/videos/Echo.webm",
         "abilities": [
             {
                 "name": "Tri-Shot",
-                "description": "",
+                "description": "Fires 3 shots at once, in a triangle pattern.",
                 "icon": "/src/assets/abilities/TriShot.png"
             },
             {
                 "name": "Sticky Bombs",
-                "description": "",
+                "description": "Fire a volley of sticky bombs that detonate after a delay.",
                 "icon": "/src/assets/abilities/StickyBombs.png"
             },
             {
                 "name": "Flight",
-                "description": "",
+                "description": "Fly forward quickly and then free-fly briefly.",
                 "icon": "/src/assets/abilities/Flight.png"
             },
             {
                 "name": "Focusing Beam",
-                "description": "",
+                "description": "Channel a beam for a few seconds. Deals very high damage to targets under half health.",
                 "icon": "/src/assets/abilities/FocusingBeam.png"
             },
             {
                 "name": "Duplicate",
-                "description": "",
+                "description": "Become a copy of the targeted enemy hero. They cannot swap heroes for the duration.",
                 "icon": "/src/assets/abilities/Duplicate.png"
             },
             {
                 "name": "Glide",
-                "description": "",
+                "description": "Hold jump to glide while falling.",
                 "icon": "/src/assets/abilities/Glide.png"
             }
         ]
@@ -325,31 +325,31 @@
         "name": "Genji", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Genji.png", 
-        "background": "/src/assets/videos/Genji.mp4",
+        "background": "/src/assets/videos/Genji.webm",
         "abilities": [
             {
                 "name": "Shuriken",
-                "description": "",
+                "description": "Throw an accurate brust of 3 projectiles. Throw a fan of 3 projectiles in an arc.",
                 "icon": "/src/assets/abilities/Shuriken.png"
             },
             {
                 "name": "Deflect",
-                "description": "",
+                "description": "Deflect incoming projectiles towards the direction you are aiming and block melee attacks.",
                 "icon": "/src/assets/abilities/Deflect.png"
             },
             {
                 "name": "Swift Strike",
-                "description": "",
+                "description": "Rapidly dash forward and inflict damage on enemies. Eliminations reset the cooldown.",
                 "icon": "/src/assets/abilities/SwiftStrike.png"
             },
             {
                 "name": "Dragonblade",
-                "description": "",
+                "description": "Unsheathe a deadly melee weapon.",
                 "icon": "/src/assets/abilities/Dragonblade.png"
             },
             {
                 "name": "Cyber-Agility",
-                "description": "",
+                "description": "Climb on walls and double jump.",
                 "icon": "/src/assets/abilities/CyberAgility.png"
             }
         ]
@@ -359,36 +359,36 @@
         "name": "Hanzo", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Hanzo.png", 
-        "background": "/src/assets/videos/Hanzo.mp4",
+        "background": "/src/assets/videos/Hanzo.webm",
         "abilities": [
             {
                 "name": "Storm Bow",
-                "description": "",
+                "description": "Hold to charge then release to launch arrows further.",
                 "icon": "/src/assets/abilities/StormBow.png"
             },
             {
                 "name": "Storm Arrows",
-                "description": "",
+                "description": "The next 5 arrows ricochet and fire instantly at reduced damage.",
                 "icon": "/src/assets/abilities/StormArrows.png"
             },
             {
                 "name": "Sonic Arrow",
-                "description": "",
+                "description": "Reveals enemies for a short time upon impact.",
                 "icon": "/src/assets/abilities/SonicArrow.png"
             },
             {
                 "name": "Lunge",
-                "description": "",
+                "description": "Double Jump.",
                 "icon": "/src/assets/abilities/Lunge.png"
             },
             {
                 "name": "Dragonstrike",
-                "description": "",
+                "description": "Launch a deadly Dragon Spirit that devastates enemies it passes through.",
                 "icon": "/src/assets/abilities/Dragonstrike.png"
             },
             {
                 "name": "Wall Climb",
-                "description": "",
+                "description": "Jump at walls to climb up them.",
                 "icon": "/src/assets/abilities/WallClimb.png"
             }
         ]
@@ -398,36 +398,36 @@
         "name": "Junker Queen", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/JunkerQueen.png", 
-        "background": "/src/assets/videos/JunkerQueen.mp4",
+        "background": "/src/assets/videos/JunkerQueen.webm",
         "abilities": [
             {
                 "name": "Scattergun",
-                "description": "",
+                "description": "Pump action shotgun.",
                 "icon": "/src/assets/abilities/Scattergun.png"
             },
             {
                 "name": "Jagged Blade",
-                "description": "",
+                "description": "Active: Throw the blade. Re-activate to pull it back, along with any impaled enemy. Passive: Wound enemies hit by Quick Melee or Throw, dealing damage over time.",
                 "icon": "/src/assets/abilities/JaggedBlade.png"
             },
             {
                 "name": "Commanding Shout",
-                "description": "",
+                "description": "Grants temporary health and movement speed to yourself and allies.",
                 "icon": "/src/assets/abilities/CommandingShout.png"
             },
             {
                 "name": "Carnage",
-                "description": "",
+                "description": "Wound all enemies in front of you, dealing damage over time and reducing the cooldown for each enemy hit.",
                 "icon": "/src/assets/abilities/Carnage.png"
             },
             {
                 "name": "Rampage",
-                "description": "",
+                "description": "Charge forward. Wounds enemies, dealing damage over time and preventing them from being healed.",
                 "icon": "/src/assets/abilities/Rampage.png"
             },
             {
                 "name": "Adrenaline Rush",
-                "description": "",
+                "description": "Heal from all damage over time dealt by wounds.",
                 "icon": "/src/assets/abilities/AdrenalineRush.png"
             }
         ]
@@ -437,31 +437,31 @@
         "name": "Junkrat", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Junkrat.png", 
-        "background": "/src/assets/videos/Junkrat.mp4",
+        "background": "/src/assets/videos/Junkrat.webm",
         "abilities": [
             {
                 "name": "Frag Launcher",
-                "description": "",
+                "description": "Bouncing explosive projectile weapon.",
                 "icon": "/src/assets/abilities/FragLauncher.png"
             },
             {
                 "name": "Concussion Mine",
-                "description": "",
+                "description": "Throw a knockback ine with LSHIFT the detonate it with ABILITY 1.",
                 "icon": "/src/assets/abilities/ConcussionMine.png"
             },
             {
                 "name": "Steel Trap",
-                "description": "",
+                "description": "Place an immobilizing trap.",
                 "icon": "/src/assets/abilities/SteelTrap.png"
             },
             {
                 "name": "Rip-Tire",
-                "description": "",
+                "description": "Drive and detonate an exploding tire.",
                 "icon": "/src/assets/abilities/RipTire.png"
             },
             {
                 "name": "Total Mayhem",
-                "description": "",
+                "description": "Deals no damage to self with explosives. Drop bombs on death.",
                 "icon": "/src/assets/abilities/TotalMayhem.png"
             }
         ]
@@ -471,837 +471,769 @@
         "name": "Kiriko", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Kiriko.png", 
-        "background": "/src/assets/videos/Kiriko.mp4",
+        "background": "/src/assets/videos/Kiriko.webm",
         "abilities": [
             {
                 "name": "Healing Ofuda",
-                "description": "",
+                "description": "Channel a burst of healing talisman that can seek targeted allies.",
                 "icon": "/src/assets/abilities/HealingOfuda.png"
             },
             {
                 "name": "Kunai",
-                "description": "",
+                "description": "Thrown projectiles that deals increased crtitical damage.",
                 "icon": "/src/assets/abilities/Kunai.png"
             },
             {
                 "name": "Swift Step",
-                "description": "",
+                "description": "Teleport directly to an ally.",
                 "icon": "/src/assets/abilities/SwiftStep.png"
             },
             {
                 "name": "Protection Suzu",
-                "description": "",
+                "description": "Throw a protective charm to make allies become briefly invulnerable and cleansed of most negative effects.",
                 "icon": "/src/assets/abilities/ProtectionSuzu.png"
             },
             {
                 "name": "Kitsune Rush",
-                "description": "",
+                "description": "Summon a fox spirit that rushes forward, accelerating the movement, attack speed, and cooldowns of allies that follow in its path.",
                 "icon": "/src/assets/abilities/KitsuneRush.png"
             }
         ]
     },
     {
         "id": 15, 
-        "name": "Lifeweaver", 
-        "role": "Support", 
-        "portrait": "/src/assets/portrait/Lifeweaver.png", 
-        "background": "/src/assets/videos/Lifeweaver.mp4",
-        "abilities": [
-            {
-                "name": "Healing Blossom",
-                "description": "",
-                "icon": "/src/assets/abilities/HealingBlossom.png"
-            },
-            {
-                "name": "Thorn Volley",
-                "description": "",
-                "icon": "/src/assets/abilities/ThornVolley.png"
-            },
-            {
-                "name": "Petal Platform",
-                "description": "",
-                "icon": "/src/assets/abilities/PetalPlatform.png"
-            },
-            {
-                "name": "Rejuvenating Dash",
-                "description": "",
-                "icon": "/src/assets/abilities/RejuvenatingDash.png"
-            },
-            {
-                "name": "Life Grip",
-                "description": "",
-                "icon": "/src/assets/abilities/LifeGrip.png"
-            },
-            {
-                "name": "Tree of Life",
-                "description": "",
-                "icon": "/src/assets/abilities/TreeOfLife.png"
-            }
-        ]
-    },
-    {
-        "id": 16, 
         "name": "Lúcio", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Lucio.png", 
-        "background": "/src/assets/videos/Lucio.mp4",
+        "background": "/src/assets/videos/Lucio.webm",
         "abilities": [
             {
                 "name": "Sonic Amplifier",
-                "description": "",
+                "description": "Sonic projectile launcher.",
                 "icon": "/src/assets/abilities/SonicAmplifier.png"
             },
             {
                 "name": "Crossfade",
-                "description": "",
+                "description": "Switches between two songs: Healing Boost heals nearby allies, and Speed Boost makes nearby allies move faster.",
                 "icon": "/src/assets/abilities/Crossfade.png"
             },
             {
                 "name": "Amp It Up",
-                "description": "",
+                "description": "Increase the effectiveness of your current song.",
                 "icon": "/src/assets/abilities/AmpItUp.png"
             },
             {
                 "name": "Soundwave",
-                "description": "",
+                "description": "Create a short-range blast wave to knock enemies away from you.",
                 "icon": "/src/assets/abilities/Soundwave.png"
             },
             {
                 "name": "Sound Barrier",
-                "description": "",
+                "description": "Create temporary extra health for nearby allies.",
                 "icon": "/src/assets/abilities/SoundBarrier.png"
             },
             {
                 "name": "Wall Ride",
-                "description": "",
+                "description": "Jump onto a wall to ride along it.",
                 "icon": "/src/assets/abilities/WallRide.png"
             }
         ]
     },
     {
-        "id": 17, 
-        "name": "Mauga", 
-        "role": "Tank", 
-        "portrait": "/src/assets/portrait/Mauga.png", 
-        "background": "/src/assets/videos/Mauga.mp4",
-        "abilities": [
-            {
-                "name": "Overrun",
-                "description": "",
-                "icon": "/src/assets/abilities/Overrun.png"
-            },
-            {
-                "name": "Cardiac Overdrive",
-                "description": "",
-                "icon": "/src/assets/abilities/CardiacOverdrive.png"
-            },
-            {
-                "name": "Berserker",
-                "description": "",
-                "icon": "/src/assets/abilities/Berserker.png"
-            },
-            {
-                "name": "Cage Fight",
-                "description": "",
-                "icon": "/src/assets/abilities/CageFight.png"
-            }
-        ]
-    },
-    {
-        "id": 18, 
+        "id": 16, 
         "name": "Mei", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Mei.png", 
-        "background": "/src/assets/videos/Mei.mp4",
+        "background": "/src/assets/videos/Mei.webm",
         "abilities": [
             {
                 "name": "Endothermic Blaster",
-                "description": "",
+                "description": "Short-range spray weapon that slows enemies. Long-range icicle launcher.",
                 "icon": "/src/assets/abilities/EndothermicBlaster.png"
             },
             {
                 "name": "Cryo-Freeze",
-                "description": "",
+                "description": "Become vulnerable and heal yourself.",
                 "icon": "/src/assets/abilities/CryoFreeze.png"
             },
             {
                 "name": "Ice Wall",
-                "description": "",
+                "description": "Create a wall in front of you.",
                 "icon": "/src/assets/abilities/IceWall.png"
             },
             {
                 "name": "Blizzard",
-                "description": "",
+                "description": "Launch a weather control drone that freezes enemies in a wide area.",
                 "icon": "/src/assets/abilities/Blizzard.png"
             }
         ]
     },
     {
-        "id": 19, 
+        "id": 17, 
         "name": "Mercy", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Mercy.png", 
-        "background": "/src/assets/videos/Mercy.mp4",
+        "background": "/src/assets/videos/Mercy.webm",
         "abilities": [
             {
                 "name": "Caduceus Staff",
-                "description": "",
+                "description": "Hold to heal an ally. Hold to increase an ally's damage inflicted.",
                 "icon": "/src/assets/abilities/CaduceusStaff.png"
             },
             {
                 "name": "Caduceus Blaster",
-                "description": "",
+                "description": "Automatic weapon.",
                 "icon": "/src/assets/abilities/CaduceusBlaster.png"
             },
             {
                 "name": "Guardian Angel",
-                "description": "",
+                "description": "Fly towards an ally. While in flight, Jump launches you forward, and Crouch launches you upward.",
                 "icon": "/src/assets/abilities/GuardianAngel.png"
             },
             {
                 "name": "Resurrect",
-                "description": "",
+                "description": "Revive a dead teammate.",
                 "icon": "/src/assets/abilities/Resurrect.png"
             },
             {
                 "name": "Angelic Descent",
-                "description": "",
+                "description": "Fall very slowly.",
                 "icon": "/src/assets/abilities/AngelicDescent.png"
             },
             {
                 "name": "Valkyrie",
-                "description": "",
+                "description": "Gain the ability to fly. Abilities are enhanced.",
                 "icon": "/src/assets/abilities/Valkyrie.png"
             }
         ]
     },
     {
-        "id": 20, 
+        "id": 18, 
         "name": "Moira", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Moira.png", 
-        "background": "/src/assets/videos/Moira.mp4",
+        "background": "/src/assets/videos/Moira.webm",
         "abilities": [
             {
                 "name": "Biotic Grasp",
-                "description": "",
+                "description": "Hold to heal all allies in front of you. Consumes biotic energy. Long range beam weapon. Damage dealt heals you and replenishes your biotic energy.",
                 "icon": "/src/assets/abilities/BioticGrasp.png"
             },
             {
                 "name": "Biotic Orb",
-                "description": "",
+                "description": "Launch a bouncing sphere that either heals nearby allies or damages nearby enemies.",
                 "icon": "/src/assets/abilities/BioticOrb.png"
             },
             {
                 "name": "Fade",
-                "description": "",
+                "description": "Disappear, move faster, and become invulnerable, but you cannot shoot.",
                 "icon": "/src/assets/abilities/Fade.png"
             },
             {
                 "name": "Coalescence",
-                "description": "",
+                "description": "Fire a beam that heals allies and damages enemies.",
                 "icon": "/src/assets/abilities/Coalescence.png"
             }
         ]
     },
     {
-        "id": 21, 
+        "id": 19, 
         "name": "Orisa", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Orisa.png", 
-        "background": "/src/assets/videos/Orisa.mp4",
+        "background": "/src/assets/videos/Orisa.webm",
         "abilities": [
             {
                 "name": "Augmented Fusion Driver",
-                "description": "",
+                "description": "Automatic heat based weapon.",
                 "icon": "/src/assets/abilities/AugmentedFusionDriver.png"
             },
             {
                 "name": "Energy Javelin",
-                "description": "",
+                "description": "Launch your javelin at an enemy to stun and knock them back. More effective if the enemy hits a wall.",
                 "icon": "/src/assets/abilities/EnergyJavelin.png"
             },
             {
                 "name": "Fortify",
-                "description": "",
+                "description": "Gain temporary health, reducing all damage taken and becoming unstoppable. While active, heat generated by your weapon is reduced.",
                 "icon": "/src/assets/abilities/Fortify.png"
             },
             {
                 "name": "Javelin Spin",
-                "description": "",
+                "description": "Spin your javelin to destroy projectiles and block melee attacks, while also pushing enemies and increasing forward speed.",
                 "icon": "/src/assets/abilities/JavelinSpin.png"
             },
             {
                 "name": "Terra Surge",
-                "description": "",
+                "description": "Sweep enemies and anchor down, gaining the effects of Fortify and charging up a surge of damage. Use Q to unleash the surge early.",
                 "icon": "/src/assets/abilities/TerraSurge.png"
             }
         ]
     },
     {
-        "id": 22, 
+        "id": 20, 
         "name": "Pharah", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Pharah.png", 
-        "background": "/src/assets/videos/Pharah.mp4",
+        "background": "/src/assets/videos/Pharah.webm",
         "abilities": [
             {
                 "name": "Rocket Launcher",
-                "description": "",
+                "description": "Long-range explosive projectile weapon.",
                 "icon": "/src/assets/abilities/RocketLauncher.png"
             },
             {
                 "name": "Jet Dash",
-                "description": "",
+                "description": "Boost horizontally.",
                 "icon": "/src/assets/abilities/JetDash.png"
             },
             {
                 "name": "Jump Jet",
-                "description": "",
+                "description": "Fly rapidly upwards. Grants some fuel.",
                 "icon": "/src/assets/abilities/JumpJet.png"
             },
             {
                 "name": "Concussive Blast",
-                "description": "",
+                "description": "Launch an explosive blast to knock back enemies.",
                 "icon": "/src/assets/abilities/ConcussiveBlast.png"
             },
             {
                 "name": "Barrage",
-                "description": "",
+                "description": "Launch a continuous volley of mini-rockets.",
                 "icon": "/src/assets/abilities/Barrage.png"
             },
             {
                 "name": "Hover Jets",
-                "description": "",
-                "icon": "/src/assets/abilities/HoverJet.png"
+                "description": "Hold to hover.",
+                "icon": "/src/assets/abilities/HoverJets.png"
             }
         ]
     },
     {
-        "id": 23, 
+        "id": 21, 
         "name": "Ramattra", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Ramattra.png", 
-        "background": "/src/assets/videos/Ramattra.mp4",
+        "background": "/src/assets/videos/Ramattra.webm",
         "abilities": [
             {
                 "name": "Void Accelerator (Omnic Form)",
-                "description": "",
+                "description": "Fire a stream of projectiles.",
                 "icon": "/src/assets/abilities/VoidAccelerator.png"
             },
             {
                 "name": "Void Barrier (Omnic Form)",
-                "description": "",
+                "description": "Create a barrier at the targeted location.",
                 "icon": "/src/assets/abilities/VoidBarrier.png"
             },
             {
                 "name": "Pummel (Nemesis Form)",
-                "description": "",
+                "description": "Punch, creating a wave of piercing energy with every swing.",
                 "icon": "/src/assets/abilities/Pummel.png"
             },
             {
                 "name": "Ravenous Vortex",
-                "description": "",
+                "description": "Fire a sphere of energy that creates a slowing vortex on the ground, damaging enemies within and pulling them downward.",
                 "icon": "/src/assets/abilities/RavenousVortex.png"
             },
             {
                 "name": "Annihilation",
-                "description": "",
+                "description": "Enter Nemesis Form and create a deadly swarm that lashes out at nearby enemies, persisting longer when damaging enemies.",
                 "icon": "/src/assets/abilities/Annihilation.png"
             }
         ]
     },
     {
-        "id": 24, 
+        "id": 22, 
         "name": "Reaper", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Reaper.png", 
-        "background": "/src/assets/videos/Reaper.mp4",
+        "background": "/src/assets/videos/Reaper.webm",
         "abilities": [
             {
                 "name": "Hellfire Shotguns",
-                "description": "",
+                "description": "Short-range spread weapons.",
                 "icon": "/src/assets/abilities/HellfireShotguns.png"
             },
             {
                 "name": "Shadow Step",
-                "description": "",
+                "description": "Teleport to a targeted location.",
                 "icon": "/src/assets/abilities/ShadowStep.png"
             },
             {
                 "name": "Wraith Form",
-                "description": "",
+                "description": "Move faster and become invulnerable, but you cannot shoot.",
                 "icon": "/src/assets/abilities/WraithForm.png"
             },
             {
                 "name": "Death Blossom",
-                "description": "",
+                "description": "Damage all nearby enemies.",
                 "icon": "/src/assets/abilities/DeathBlossom.png"
             },
             {
                 "name": "The Reaping",
-                "description": "",
+                "description": "Dealing damage heals you.",
                 "icon": "/src/assets/abilities/TheReaping.png"
             }
         ]
     },
     {
-        "id": 25, 
+        "id": 23, 
         "name": "Reinhardt", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Reinhardt.png", 
-        "background": "/src/assets/videos/Reinhardt.mp4",
+        "background": "/src/assets/videos/Reinhardt.webm",
         "abilities": [
             {
                 "name": "Rocket Hammer",
-                "description": "",
+                "description": "Devastating melee weapon.",
                 "icon": "/src/assets/abilities/RocketHammer.png"
             },
             {
                 "name": "Charge",
-                "description": "",
+                "description": "Charge forward and smash an enemy against a wall.",
                 "icon": "/src/assets/abilities/Charge.png"
             },
             {
                 "name": "Fire Strike",
-                "description": "",
+                "description": "Launch a fiery projectile.",
                 "icon": "/src/assets/abilities/FireStrike.png"
             },
             {
                 "name": "Barrier Field",
-                "description": "",
+                "description": "Hold mouse to deploy a frontal energy barrier.",
                 "icon": "/src/assets/abilities/BarrierField.png"
             },
             {
                 "name": "Earthshatter",
-                "description": "",
+                "description": "Knock down all enemies in front of you.",
                 "icon": "/src/assets/abilities/Earthshatter.png"
             }
         ]
     },
     {
-        "id": 26, 
+        "id": 24, 
         "name": "Roadhog", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Roadhog.png", 
-        "background": "/src/assets/videos/Roadhog.mp4",
+        "background": "/src/assets/videos/Roadhog.webm",
         "abilities": [
             {
                 "name": "Scrap Gun",
-                "description": "",
+                "description": "Short-range spread weapon with a medium-range shrapnel volley",
                 "icon": "/src/assets/abilities/ScrapGun.png"
             },
             {
                 "name": "Chain Hook",
-                "description": "",
+                "description": "Drag a targeted enemy to you.",
                 "icon": "/src/assets/abilities/ChainHook.png"
             },
             {
                 "name": "Take a Breather",
-                "description": "",
+                "description": "Heal yourself and reduce damage taken.",
                 "icon": "/src/assets/abilities/TakeABreather.png"
             },
             {
                 "name": "Pig Pen",
-                "description": "",
+                "description": "Launch a trap that slows and damages nearby enemies.",
                 "icon": "/src/assets/abilities/PigPen.png"
             },
             {
                 "name": "Whole Hog",
-                "description": "",
+                "description": "Damage and knock back enemies in front of you.",
                 "icon": "/src/assets/abilities/WholeHog.png"
             }
         ]
     },
     {
-        "id": 27, 
+        "id": 25, 
         "name": "Sigma", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Sigma.png", 
-        "background": "/src/assets/videos/Sigma.mp4",
+        "background": "/src/assets/videos/Sigma.webm",
         "abilities": [
             {
                 "name": "Hyperspheres",
-                "description": "",
+                "description": "Launch two charges which implode after a short duration, dealing damage in an area.",
                 "icon": "/src/assets/abilities/Hyperspheres.png"
             },
             {
                 "name": "Kinetic Grasp",
-                "description": "",
+                "description": "Absorb projectiles in front of you and convert them into extra health.",
                 "icon": "/src/assets/abilities/KineticGrasp.png"
             },
             {
                 "name": "Accretion",
-                "description": "",
+                "description": "Gather a mass of debris and throw it at an enemy to knock them down.",
                 "icon": "/src/assets/abilities/Accretion.png"
             },
             {
                 "name": "Experimental Barrier",
-                "description": "",
+                "description": "Hold to propel a floating barrier; release to stop. Press again to recall the barrier to you.",
                 "icon": "/src/assets/abilities/ExperimentalBarrier.png"
             },
             {
                 "name": "Gravitic Flux",
-                "description": "",
+                "description": "Manipulates gravity to lift enemies into the air and slam them back down.",
                 "icon": "/src/assets/abilities/GraviticFlux.png"
             }
         ]
     },
     {
-        "id": 28, 
+        "id": 26, 
         "name": "Sojourn", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Sojourn.png", 
-        "background": "/src/assets/videos/Sojourn.mp4",
+        "background": "/src/assets/videos/Sojourn.webm",
         "abilities": [
             {
                 "name": "Railgun",
-                "description": "",
+                "description": "Rapid firing projectiles that generate energy on hit. High impact shot that consumes stored energy.",
                 "icon": "/src/assets/abilities/Railgun.png"
             },
             {
                 "name": "Power Slide",
-                "description": "",
+                "description": "Ground slide that can cancel into a high jump.",
                 "icon": "/src/assets/abilities/PowerSlide.png"
             },
             {
                 "name": "Disruptor Shot",
-                "description": "",
+                "description": "Launch an energy burst that deals damage to enemies within it.",
                 "icon": "/src/assets/abilities/DisruptorShot.png"
             },
             {
                 "name": "Overclock",
-                "description": "",
+                "description": "Railgun energy auto-charges for a short duration and charged shots pierce enemies.",
                 "icon": "/src/assets/abilities/Overclock.png"
             }
         ]
     },
     {
-        "id": 29, 
+        "id": 27, 
         "name": "Soldier: 76", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Soldier76.png", 
-        "background": "/src/assets/videos/Soldier76.mp4",
+        "background": "/src/assets/videos/Soldier76.webm",
         "abilities": [
             {
                 "name": "Heavy Pulse Rifle",
-                "description": "",
+                "description": "Automatic assault weapon.",
                 "icon": "/src/assets/abilities/HeavyPulseRifle.png"
             },
             {
                 "name": "Sprint",
-                "description": "",
+                "description": "Run faster while moving forward.",
                 "icon": "/src/assets/abilities/Sprint.png"
             },
             {
                 "name": "Biotic Field",
-                "description": "",
+                "description": "Deploy a field that heals you and your allies.",
                 "icon": "/src/assets/abilities/BioticField.png"
             },
             {
                 "name": "Helix Rockets",
-                "description": "",
+                "description": "Launch a volley of explosive rockets.",
                 "icon": "/src/assets/abilities/HelixRockets.png"
             },
             {
                 "name": "Tactical Visor",
-                "description": "",
+                "description": "Automatically aims your weapon at targets in view.",
                 "icon": "/src/assets/abilities/TacticalVisor.png"
             }
         ]
     },
     {
-        "id": 30, 
+        "id": 28, 
         "name": "Sombra", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Sombra.png", 
-        "background": "/src/assets/videos/Sombra.mp4",
+        "background": "/src/assets/videos/Sombra.webm",
         "abilities": [
             {
                 "name": "Machine Pistol",
-                "description": "",
+                "description": "Short-range automatic weapon.",
                 "icon": "/src/assets/abilities/MachinePistol.png"
             },
             {
                 "name": "Hack",
-                "description": "",
+                "description": "Hold to hack. Hacked enemies cannot use abilities and can be seen through walls. Hacked health packs spawn faster and can't be used by enemies. Taking damage interrupts the hack attempt.",
                 "icon": "/src/assets/abilities/Hack.png"
             },
             {
                 "name": "Stealth",
-                "description": "",
+                "description": "When out of combat, become invisible and move faster.",
                 "icon": "/src/assets/abilities/Stealth.png"
             },
             {
                 "name": "Translocator",
-                "description": "",
+                "description": "Throw a beacon and teleport to it. Stealth cooldown is reduced after teleporting.",
                 "icon": "/src/assets/abilities/Translocator.png"
             },
             {
                 "name": "Virus",
-                "description": "",
+                "description": "Infect enemies with a projectile that deals damage over time. Virus damages hacked enemies at a faster rate.",
                 "icon": "/src/assets/abilities/Virus.png"
             },
             {
                 "name": "EMP",
-                "description": "",
+                "description": "Deal damage to all nearby enemies equal to a precentage of their current health, hacking them and destroying barriers around you.",
                 "icon": "/src/assets/abilities/EMP.png"
             }
         ]
     },
     {
-        "id": 31, 
+        "id": 29, 
         "name": "Symmetra", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Symmetra.png", 
-        "background": "/src/assets/videos/Symmetra.mp4",
+        "background": "/src/assets/videos/Symmetra.webm",
         "abilities": [
             {
                 "name": "Photon Projector",
-                "description": "",
+                "description": "Short-range beam weapon with increasing damage. Hold to charge, release to fire explosive orb.",
                 "icon": "/src/assets/abilities/PhotonProjector.png"
             },
             {
                 "name": "Sentry Turret",
-                "description": "",
+                "description": "Deploy a small turret that damages and slows enemies.",
                 "icon": "/src/assets/abilities/SentryTurret.png"
             },
             {
                 "name": "Teleporter",
-                "description": "",
+                "description": "Create two temporary teleporters that enable instant travel between them.",
                 "icon": "/src/assets/abilities/Teleporter.png"
             },
             {
                 "name": "Photon Barrier",
-                "description": "",
+                "description": "Deploy a massive energy barrier.",
                 "icon": "/src/assets/abilities/PhotonBarrier.png"
             }
         ]
     },
     {
-        "id": 32, 
+        "id": 30, 
         "name": "Torbjörn", 
         "role": "Damage", 
-        "portrait": "/src/assets/portrait/Torbjorn.png", 
-        "background": "/src/assets/videos/Torbjorn.mp4",
+        "portrait": "/src/assets/portrait/Torbjörn.png", 
+        "background": "/src/assets/videos/Torbjörn.webm",
         "abilities": [
             {
                 "name": "Rivet Gun",
-                "description": "",
+                "description": "Slow firing, long-ranged weapon. Inaccurate but powerful short-range weapon.",
                 "icon": "/src/assets/abilities/RivetGun.png"
             },
             {
                 "name": "Forge Hammer",
-                "description": "",
+                "description": "Swing to repair your turret or damage an enemy.",
                 "icon": "/src/assets/abilities/ForgeHammer.png"
             },
             {
                 "name": "Deploy Turret",
-                "description": "",
+                "description": "Deploy a self-building turret.",
                 "icon": "/src/assets/abilities/DeployTurret.png"
             },
             {
                 "name": "Overload",
-                "description": "",
+                "description": "Gain additional extra health as well as improved attack, movement, and reload speed.",
                 "icon": "/src/assets/abilities/Overload.png"
             },
             {
                 "name": "Molten Core",
-                "description": "",
+                "description": "Create pools of molten slag that damage enemies. Deals additional damage to armor.",
                 "icon": "/src/assets/abilities/MoltenCore.png"
             }
         ]
     },
     {
-        "id": 33, 
+        "id": 31, 
         "name": "Tracer", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Tracer.png", 
-        "background": "/src/assets/videos/Tracer.mp4",
+        "background": "/src/assets/videos/Tracer.webm",
         "abilities": [
             {
                 "name": "Pulse Pistols",
-                "description": "",
+                "description": "Short-range automatic weapons.",
                 "icon": "/src/assets/abilities/PulsePistols.png"
             },
             {
                 "name": "Blink",
-                "description": "",
+                "description": "Teleport in the direction you are moving.",
                 "icon": "/src/assets/abilities/Blink.png"
             },
             {
                 "name": "Recall",
-                "description": "",
+                "description": "Travel back in time to your previous location and health.",
                 "icon": "/src/assets/abilities/Recall.png"
             },
             {
                 "name": "Pulse Bomb",
-                "description": "",
+                "description": "Throw a powerful sticky explosive.",
                 "icon": "/src/assets/abilities/PulseBomb.png"
             }
         ]
     },
     {
-        "id": 34, 
+        "id": 32, 
         "name": "Widowmaker", 
         "role": "Damage", 
         "portrait": "/src/assets/portrait/Widowmaker.png", 
-        "background": "/src/assets/videos/Widowmaker.mp4",
+        "background": "/src/assets/videos/Widowmaker.webm",
         "abilities": [
             {
                 "name": "Widow's Kiss",
-                "description": "",
+                "description": "Automatic assault weapon. Hold for long-ranged sniper weapon.",
                 "icon": "/src/assets/abilities/WidowsKiss.png"
             },
             {
                 "name": "Grappling Hook",
-                "description": "",
+                "description": "Launch a hook that pulls you towards a ledge.",
                 "icon": "/src/assets/abilities/GrapplingHook.png"
             },
             {
                 "name": "Venom Mine",
-                "description": "",
+                "description": "Launch a poison trap.",
                 "icon": "/src/assets/abilities/VenomMine.png"
             },
             {
                 "name": "Infra-Sight",
-                "description": "",
+                "description": "Provide your team with a view of the enemy's location.",
                 "icon": "/src/assets/abilities/InfraSight.png"
             }
         ]
     },
     {
-        "id": 35, 
+        "id": 33, 
         "name": "Winston", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Winston.png", 
-        "background": "/src/assets/videos/Winston.mp4",
+        "background": "/src/assets/videos/Winston.webm",
         "abilities": [
             {
                 "name": "TeslaCannon",
-                "description": "",
-                "icon": "/src/assets/abilities/Tesla Cannon.png"
+                "description": "Electrical frontal-cone weapon. Hold to charge, release to fire focused electricity.",
+                "icon": "/src/assets/abilities/TeslaCannon.png"
             },
             {
                 "name": "JumpPack",
-                "description": "",
-                "icon": "/src/assets/abilities/Jump Pack.png"
+                "description": "Leap forward into the air. Landing on an enemy damages them.",
+                "icon": "/src/assets/abilities/JumpPack.png"
             },
             {
                 "name": "BarrierProjector",
-                "description": "",
+                "description": "Deploy a protective energy dome.",
                 "icon": "/src/assets/abilities/BarrierProjector.png"
             },
             {
                 "name": "PrimalRage",
-                "description": "",
+                "description": "Gain immense health, but you can only leap and punch enemies.",
                 "icon": "/src/assets/abilities/PrimalRage.png"
             }
         ]
     },
     {
-        "id": 36, 
+        "id": 34, 
         "name": "Wrecking Ball", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/WreckingBall.png", 
-        "background": "/src/assets/videos/WreckingBall.mp4",
+        "background": "/src/assets/videos/WreckingBall.webm",
         "abilities": [
             {
                 "name": "Quad Cannons",
-                "description": "",
+                "description": "Automatic assault weapons.",
                 "icon": "/src/assets/abilities/QuadCannons.png"
             },
             {
                 "name": "Grappling Claw",
-                "description": "",
+                "description": "Launch a grappling claw to rapidly swing around the area. Enables high speed collisions to damage and knockback enemies.",
                 "icon": "/src/assets/abilities/GrapplingClaw.png"
             },
             {
                 "name": "Roll",
-                "description": "",
+                "description": "Transform into a ball and increase maximum movement speed.",
                 "icon": "/src/assets/abilities/Roll.png"
             },
             {
                 "name": "Piledriver",
-                "description": "",
+                "description": "Slam into the ground below to damage and launch enemies upward.",
                 "icon": "/src/assets/abilities/Piledriver.png"
             },
             {
                 "name": "Adaptive Shield",
-                "description": "",
+                "description": "Create temporary extra health that increases with more nearby enemies. Some of the health can be transferred to allies.",
                 "icon": "/src/assets/abilities/AdaptiveShield.png"
             },
             {
                 "name": "Minefield",
-                "description": "",
-                "icon": "/src/assets/abilities/.png"
+                "description": "Deploy a massive field of proximity mines.",
+                "icon": "/src/assets/abilities/Minefield.png"
             }
         ]
     },
     {
-        "id": 37, 
+        "id": 35, 
         "name": "Zarya", 
         "role": "Tank", 
         "portrait": "/src/assets/portrait/Zarya.png", 
-        "background": "/src/assets/videos/Zarya.mp4",
+        "background": "/src/assets/videos/Zarya.webm",
         "abilities": [
             {
                 "name": "Particle Cannon",
-                "description": "",
+                "description": "Short-range linear beam weapon. Energy grenade launcher.",
                 "icon": "/src/assets/abilities/ParticleCannon.png"
             },
             {
                 "name": "Particle Barrier",
-                "description": "",
+                "description": "Create a damage barrier around you.",
                 "icon": "/src/assets/abilities/ParticleBarrier.png"
             },
             {
                 "name": "Projected Barrier",
-                "description": "",
+                "description": "Create a damage barrier around an ally.",
                 "icon": "/src/assets/abilities/ProjectedBarrier.png"
             },
             {
                 "name": "Graviton Surge",
-                "description": "",
+                "description": "Launch a gravity well that pulls enemies to it.",
                 "icon": "/src/assets/abilities/GravitonSurge.png"
             },
             {
                 "name": "Energy",
-                "description": "",
+                "description": "Damage blocked by barriers increases Particle Cannon damage.",
                 "icon": "/src/assets/abilities/Energy.png"
             }
         ]
     },
     {
-        "id": 38, 
+        "id": 36, 
         "name": "Zenyatta", 
         "role": "Support", 
         "portrait": "/src/assets/portrait/Zenyatta.png", 
-        "background": "/src/assets/videos/Zenyatta.mp4",
+        "background": "/src/assets/videos/Zenyatta.webm",
         "abilities": [
             {
                 "name": "Orb of Destruction",
-                "description": "",
+                "description": "Energy projectile weapon. Charge to release more projectiles.",
                 "icon": "/src/assets/abilities/OrbOfDestruction.png"
             },
             {
                 "name": "Orb of Discord",
-                "description": "",
+                "description": "Launch this orb at an enemy to increase the damage they take.",
                 "icon": "/src/assets/abilities/OrbOfDiscord.png"
             },
             {
                 "name": "Orb of Harmony",
-                "description": "",
+                "description": "Launch this orb to an ally to heal them.",
                 "icon": "/src/assets/abilities/OrbOfHarmony.png"
             },
             {
                 "name": "Transcendence",
-                "description": "",
+                "description": "Become invulnerable, move faster, and heal nearby allies.",
                 "icon": "/src/assets/abilities/Transcendence.png"
             },
             {
                 "name": "Snap Kick",
-                "description": "",
+                "description": "Qucik melee damage increased by 50%, and its knockback is significantly increased.",
                 "icon": "/src/assets/abilities/SnapKick.png"
             }
         ]
